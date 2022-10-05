@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/bin/Debug/net5.0/AreaAndVolume
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/bin/Debug/net5.0/AreaAndVolume.deps.json
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/bin/Debug/net5.0/AreaAndVolume.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/bin/Debug/net5.0/AreaAndVolume.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/bin/Debug/net5.0/AreaAndVolume.dll
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/bin/Debug/net5.0/ref/AreaAndVolume.dll
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/bin/Debug/net5.0/AreaAndVolume.pdb
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.dll
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/ref/AreaAndVolume.dll
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.pdb
+/home/qckslvrri/Code/C-Sharp projects/AreaAndVolume/obj/Debug/net5.0/AreaAndVolume.genruntimeconfig.cache
