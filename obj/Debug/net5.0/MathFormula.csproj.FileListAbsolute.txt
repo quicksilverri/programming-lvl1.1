@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/MathFormula/bin/Debug/net5.0/MathFormula
+/home/qckslvrri/Code/MathFormula/bin/Debug/net5.0/MathFormula.deps.json
+/home/qckslvrri/Code/MathFormula/bin/Debug/net5.0/MathFormula.runtimeconfig.json
+/home/qckslvrri/Code/MathFormula/bin/Debug/net5.0/MathFormula.runtimeconfig.dev.json
+/home/qckslvrri/Code/MathFormula/bin/Debug/net5.0/MathFormula.dll
+/home/qckslvrri/Code/MathFormula/bin/Debug/net5.0/ref/MathFormula.dll
+/home/qckslvrri/Code/MathFormula/bin/Debug/net5.0/MathFormula.pdb
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.AssemblyInfo.cs
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.dll
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/ref/MathFormula.dll
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.pdb
+/home/qckslvrri/Code/MathFormula/obj/Debug/net5.0/MathFormula.genruntimeconfig.cache
