@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/bin/Debug/net5.0/ColoredLyrics
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/bin/Debug/net5.0/ColoredLyrics.deps.json
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/bin/Debug/net5.0/ColoredLyrics.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/bin/Debug/net5.0/ColoredLyrics.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/bin/Debug/net5.0/ColoredLyrics.dll
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/bin/Debug/net5.0/ref/ColoredLyrics.dll
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/bin/Debug/net5.0/ColoredLyrics.pdb
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.dll
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ref/ColoredLyrics.dll
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.pdb
+/home/qckslvrri/Code/C-Sharp projects/ColoredLyrics/obj/Debug/net5.0/ColoredLyrics.genruntimeconfig.cache
