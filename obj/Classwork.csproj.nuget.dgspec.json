@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/qckslvrri/Code/C-Sharp projects/Classwork/Classwork.csproj": {}
+    "/home/qckslvrri/Code/C-Sharp projects/Classwork0710/Classwork.csproj": {}
   },
   "projects": {
-    "/home/qckslvrri/Code/C-Sharp projects/Classwork/Classwork.csproj": {
+    "/home/qckslvrri/Code/C-Sharp projects/Classwork0710/Classwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/qckslvrri/Code/C-Sharp projects/Classwork/Classwork.csproj",
+        "projectUniqueName": "/home/qckslvrri/Code/C-Sharp projects/Classwork0710/Classwork.csproj",
         "projectName": "Classwork",
-        "projectPath": "/home/qckslvrri/Code/C-Sharp projects/Classwork/Classwork.csproj",
+        "projectPath": "/home/qckslvrri/Code/C-Sharp projects/Classwork0710/Classwork.csproj",
         "packagesPath": "/home/qckslvrri/.nuget/packages/",
-        "outputPath": "/home/qckslvrri/Code/C-Sharp projects/Classwork/obj/",
+        "outputPath": "/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/qckslvrri/.nuget/NuGet/NuGet.Config"

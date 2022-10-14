@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/bin/Debug/net5.0/Classwork
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/bin/Debug/net5.0/Classwork.deps.json
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/bin/Debug/net5.0/Classwork.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/bin/Debug/net5.0/Classwork.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/bin/Debug/net5.0/Classwork.dll
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/bin/Debug/net5.0/ref/Classwork.dll
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/bin/Debug/net5.0/Classwork.pdb
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.dll
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/ref/Classwork.dll
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.pdb
+/home/qckslvrri/Code/C-Sharp projects/Classwork0710/obj/Debug/net5.0/Classwork.genruntimeconfig.cache
