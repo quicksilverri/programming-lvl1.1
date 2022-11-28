@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/bin/Debug/net5.0/IfStatements
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/bin/Debug/net5.0/IfStatements.deps.json
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/bin/Debug/net5.0/IfStatements.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/bin/Debug/net5.0/IfStatements.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/bin/Debug/net5.0/IfStatements.dll
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/bin/Debug/net5.0/ref/IfStatements.dll
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/bin/Debug/net5.0/IfStatements.pdb
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.dll
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/ref/IfStatements.dll
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.pdb
+/home/qckslvrri/Code/C-Sharp projects/IfStatements/obj/Debug/net5.0/IfStatements.genruntimeconfig.cache
