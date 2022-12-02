@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace IfStatements
 {
@@ -53,8 +54,26 @@ namespace IfStatements
             return Double.Parse(Console.ReadLine());
         }
 
+        static void TaskThree(){
+            // ферзь ферзь 
 
+            static int[] DecodePosition(string position){
+                // position column(letter)+row(number)
+                Dictionary<string, int> replacements = new Dictionary<string, int>();
+                replacements.Add("a", 1); replacements.Add("b", 2); replacements.Add("c", 3); replacements.Add("d", 4);
+                replacements.Add("e", 5); replacements.Add("f", 6); replacements.Add("g", 7); replacements.Add("h", 8);
 
-        
+                string rawRow = position.Substring(0, 1);
+                string rawCol = position.Substring(1, 1); 
+
+                int row = replacements[rawRow]; 
+                int col = Int32.Parse(rawCol);
+
+                int[] result = {col, row};
+                return result;                
+            }
+
+            
+        }
     }
 }
