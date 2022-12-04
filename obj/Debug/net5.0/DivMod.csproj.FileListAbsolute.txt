@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/DivMod/bin/Debug/net5.0/DivMod
+/home/qckslvrri/Code/C-Sharp projects/DivMod/bin/Debug/net5.0/DivMod.deps.json
+/home/qckslvrri/Code/C-Sharp projects/DivMod/bin/Debug/net5.0/DivMod.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/DivMod/bin/Debug/net5.0/DivMod.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/DivMod/bin/Debug/net5.0/DivMod.dll
+/home/qckslvrri/Code/C-Sharp projects/DivMod/bin/Debug/net5.0/ref/DivMod.dll
+/home/qckslvrri/Code/C-Sharp projects/DivMod/bin/Debug/net5.0/DivMod.pdb
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.dll
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/ref/DivMod.dll
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.pdb
+/home/qckslvrri/Code/C-Sharp projects/DivMod/obj/Debug/net5.0/DivMod.genruntimeconfig.cache
