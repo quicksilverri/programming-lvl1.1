@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/Methods/bin/Debug/net5.0/Methods
+/home/qckslvrri/Code/C-Sharp projects/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/qckslvrri/Code/C-Sharp projects/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/Methods/bin/Debug/net5.0/Methods.dll
+/home/qckslvrri/Code/C-Sharp projects/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/qckslvrri/Code/C-Sharp projects/Methods/bin/Debug/net5.0/Methods.pdb
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.dll
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.pdb
+/home/qckslvrri/Code/C-Sharp projects/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache

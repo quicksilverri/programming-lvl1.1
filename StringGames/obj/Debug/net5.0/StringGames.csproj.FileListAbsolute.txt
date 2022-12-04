@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/StringGames/bin/Debug/net5.0/StringGames
+/home/qckslvrri/Code/C-Sharp projects/StringGames/bin/Debug/net5.0/StringGames.deps.json
+/home/qckslvrri/Code/C-Sharp projects/StringGames/bin/Debug/net5.0/StringGames.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/StringGames/bin/Debug/net5.0/StringGames.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/StringGames/bin/Debug/net5.0/StringGames.dll
+/home/qckslvrri/Code/C-Sharp projects/StringGames/bin/Debug/net5.0/ref/StringGames.dll
+/home/qckslvrri/Code/C-Sharp projects/StringGames/bin/Debug/net5.0/StringGames.pdb
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.dll
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/ref/StringGames.dll
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.pdb
+/home/qckslvrri/Code/C-Sharp projects/StringGames/obj/Debug/net5.0/StringGames.genruntimeconfig.cache
