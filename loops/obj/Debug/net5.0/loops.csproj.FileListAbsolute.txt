@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/loops/bin/Debug/net5.0/loops
+/home/qckslvrri/Code/C-Sharp projects/loops/bin/Debug/net5.0/loops.deps.json
+/home/qckslvrri/Code/C-Sharp projects/loops/bin/Debug/net5.0/loops.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/loops/bin/Debug/net5.0/loops.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/loops/bin/Debug/net5.0/loops.dll
+/home/qckslvrri/Code/C-Sharp projects/loops/bin/Debug/net5.0/ref/loops.dll
+/home/qckslvrri/Code/C-Sharp projects/loops/bin/Debug/net5.0/loops.pdb
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.dll
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/ref/loops.dll
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.pdb
+/home/qckslvrri/Code/C-Sharp projects/loops/obj/Debug/net5.0/loops.genruntimeconfig.cache
