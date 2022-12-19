@@ -6,8 +6,9 @@ namespace IfStatements
     class Program
     {
         static void Main(string[] args){
-            TaskOne();
-            TaskTwo();
+            // TaskOne();
+            // TaskTwo();
+            TaskThree();
         }
         
         static void TaskOne()
@@ -57,8 +58,9 @@ namespace IfStatements
         static void TaskThree(){
             // ферзь ферзь 
 
-            static int[] DecodePosition(string position){
-                // position column(letter)+row(number)
+            static Dictionary<string, int> DecodePosition(string position){
+                // position column(letter)+row(number) 
+                // REWRITE FOR >OUT< PARAMETR  
                 Dictionary<string, int> replacements = new Dictionary<string, int>();
                 replacements.Add("a", 1); replacements.Add("b", 2); replacements.Add("c", 3); replacements.Add("d", 4);
                 replacements.Add("e", 5); replacements.Add("f", 6); replacements.Add("g", 7); replacements.Add("h", 8);
@@ -69,11 +71,35 @@ namespace IfStatements
                 int row = replacements[rawRow]; 
                 int col = Int32.Parse(rawCol);
 
-                int[] result = {col, row};
-                return result;                
+                Dictionary<string, int> results = new Dictionary<string, int>();
+                results.Add("col", col); results.Add("row", row);                
+                return results;                
             }
 
-            
+            static string InputData(sting inputStatement){
+                Console.WriteLine(inputStatement);
+                string position = Console.ReadLine();
+
+                return position;
+            }
+
+            static bool ifMovementPossible(var posA, var posB){
+                
+            }
+
+            static bool ifTheyBeatEO(var posA, var posB){
+                
+            }
+
+            var white = InputData("Pls input white figure position: ");
+            var black = InputData("Pls input black figure position: ");
+            var move = InputData("Pls input desired position for white figure: "); 
+
+            var positionWhite; var positionBlack; var positionMove; 
+
+            DecodePosition(out white)
+
+
         }
     }
 }
