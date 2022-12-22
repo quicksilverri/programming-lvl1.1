@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/bin/Debug/net5.0/2d-arrays
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/bin/Debug/net5.0/2d-arrays.deps.json
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/bin/Debug/net5.0/2d-arrays.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/bin/Debug/net5.0/2d-arrays.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/bin/Debug/net5.0/2d-arrays.dll
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/bin/Debug/net5.0/ref/2d-arrays.dll
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/bin/Debug/net5.0/2d-arrays.pdb
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.dll
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/ref/2d-arrays.dll
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.pdb
+/home/qckslvrri/Code/C-Sharp projects/2d-arrays/obj/Debug/net5.0/2d-arrays.genruntimeconfig.cache
