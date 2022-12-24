@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Formula/bin/Debug/net5.0/Formula
+/home/qckslvrri/Code/C-Sharp projects/Formula/bin/Debug/net5.0/Formula.deps.json
+/home/qckslvrri/Code/C-Sharp projects/Formula/bin/Debug/net5.0/Formula.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/Formula/bin/Debug/net5.0/Formula.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/Formula/bin/Debug/net5.0/Formula.dll
+/home/qckslvrri/Code/C-Sharp projects/Formula/bin/Debug/net5.0/ref/Formula.dll
+/home/qckslvrri/Code/C-Sharp projects/Formula/bin/Debug/net5.0/Formula.pdb
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.dll
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/ref/Formula.dll
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.pdb
+/home/qckslvrri/Code/C-Sharp projects/Formula/obj/Debug/net5.0/Formula.genruntimeconfig.cache
