@@ -31,9 +31,9 @@ namespace Midterm
             return maxLen;           
         }
 
-        static int GetS(int n){
+        static long GetS(int n){
             double upperLimit = Math.Pow(2, n);
-            int sum = n;
+            long sum = n;
 
             for(long i = 1; i < upperLimit; i++){
                 int l; 
