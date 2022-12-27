@@ -1,0 +1,16 @@
+/home/qckslvrri/Code/C-Sharp projects/Midterm/bin/Debug/net5.0/Midterm
+/home/qckslvrri/Code/C-Sharp projects/Midterm/bin/Debug/net5.0/Midterm.deps.json
+/home/qckslvrri/Code/C-Sharp projects/Midterm/bin/Debug/net5.0/Midterm.runtimeconfig.json
+/home/qckslvrri/Code/C-Sharp projects/Midterm/bin/Debug/net5.0/Midterm.runtimeconfig.dev.json
+/home/qckslvrri/Code/C-Sharp projects/Midterm/bin/Debug/net5.0/Midterm.dll
+/home/qckslvrri/Code/C-Sharp projects/Midterm/bin/Debug/net5.0/ref/Midterm.dll
+/home/qckslvrri/Code/C-Sharp projects/Midterm/bin/Debug/net5.0/Midterm.pdb
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.csproj.AssemblyReference.cache
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.GeneratedMSBuildEditorConfig.editorconfig
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.AssemblyInfoInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.AssemblyInfo.cs
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.csproj.CoreCompileInputs.cache
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.dll
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/ref/Midterm.dll
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.pdb
+/home/qckslvrri/Code/C-Sharp projects/Midterm/obj/Debug/net5.0/Midterm.genruntimeconfig.cache
